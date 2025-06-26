@@ -15,52 +15,11 @@ A modern WPF application for downloading video game music soundtracks from [Khin
 - **⏹️ Download Control**: Start, stop, and cancel downloads at any time
 - **🖼️ Album Artwork**: Displays album cover images when available
 
-## Screenshots
-
-The application features a clean, modern interface with:
-- Header section with application branding
-- URL input with validation
-- Download path selection
-- Album information display with cover art
-- Real-time progress tracking
-- Detailed activity logging
-
 ## Requirements
 
 - **OS**: Windows 10/11
 - **.NET**: .NET 8.0 or later
 - **Internet**: Active internet connection for downloading
-
-## Installation
-
-### Option 1: Download Release (Recommended)
-1. Go to the [Releases](../../releases) page
-2. Download the latest release
-3. Extract the files to your desired location
-4. Run `NKhinsider.exe`
-
-### Option 2: Build from Source
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/NKhinsider.git
-   cd NKhinsider
-   ```
-
-2. Ensure you have .NET 8.0 SDK installed:
-   ```bash
-   dotnet --version
-   ```
-
-3. Restore dependencies and build:
-   ```bash
-   dotnet restore
-   dotnet build --configuration Release
-   ```
-
-4. Run the application:
-   ```bash
-   dotnet run
-   ```
 
 ## Usage
 
