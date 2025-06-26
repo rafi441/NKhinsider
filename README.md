@@ -119,10 +119,6 @@ The application follows the MVVM (Model-View-ViewModel) pattern:
 - Ensure .NET 8.0 Runtime is installed
 - Check Windows compatibility (Windows 10/11 required)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ### Development Setup
 1. Fork the repository
 2. Create a feature branch
@@ -137,13 +133,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Disclaimer
 
 This application is for personal use only. Please respect the terms of service of Khinsider and only download music you have the right to download. The developers are not responsible for any misuse of this software.
-
-## Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](../../issues) page for existing solutions
-2. Create a new issue with detailed information about your problem
-3. Include relevant log entries and system information
 
 ---
 
